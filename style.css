@@ -214,5 +214,22 @@ h3{
 .footer3{
     margin-left: 5%;
 }
+#heading5{
+    font-size: 25px;
+}
+#overlap1{
+    width: 30%;
+    height: 20%;
+}
+#overlap2{
+    width: 30%;
+    height: 20%;
+    margin-right: 20%;
+}
+.over{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 
