@@ -134,21 +134,19 @@ h3{
 }
 .interiors{
     display: flex;
+    margin-left: 10%;
     
 }
 #interior1{
-    width:20%;
-    height: 10%;
-    margin-left: 20%;
+    width:90%;
+    margin-left: 5%;
 }
 #interior2{
-    width: 20%;
-    height: 10%;
-    margin-left: 2%;
+    width: 90%;
+    margin-left: 5%;
 }
 #interior3{
-    width: 20%;
-    height: 10%;
+    width: 90%;
     margin-left: 2%;
 }
 #best{
@@ -198,6 +196,7 @@ h3{
     height: 50%;
     margin-left: 80%;
     margin-top: -20%;
+    /* margin-right: 50%; */
 }
 .footer{
     margin-left: 20%;
@@ -220,6 +219,7 @@ h3{
 #overlap1{
     width: 30%;
     height: 20%;
+
 }
 #overlap2{
     width: 30%;
@@ -230,6 +230,32 @@ h3{
     display: flex;
     justify-content: space-between;
 }
-
+#over1{
+    width: 650px;
+    margin-left: 450px;
+}
+#over2{
+    width: 500px;
+    margin-left: 450px;
+    margin-top: -900px;
+    padding-left: 230px;
+    padding-top: -400px;
+}
+#over3{
+    width: 350px;
+    margin-left: 450px;
+    margin-top: -900px;
+    padding-left: 400px;
+}
+.designing{
+    margin-right: 500px;
+    margin-top: -400px;
+}
+#graphic{
+    margin-right: 3%;
+}
+#graphic1{
+    margin: right 20%; 
+}
 
 
